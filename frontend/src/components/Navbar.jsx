@@ -31,7 +31,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${isTransparent ? 'transparent' : 'solid'}`}>
       <div className="container">
-        <Link to="/" className="logo">Myards</Link>
+        <Link to="/" className="logo">myards</Link>
         
         {/* Desktop Nav */}
         <div className="nav-links desktop-only">
