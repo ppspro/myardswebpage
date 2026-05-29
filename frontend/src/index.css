@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@500;700;800&family=Comfortaa:wght@700&display=swap');
 
 /* ==========================================================================
    MYARDS DESIGN SYSTEM — Green Hyperlocal Brand
@@ -756,10 +756,10 @@ img {
   align-items: center;
 }
 .logo {
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Comfortaa', 'Outfit', sans-serif;
   font-size: 1.75rem;
-  font-weight: 800;
-  letter-spacing: -0.8px;
+  font-weight: 700;
+  letter-spacing: -1.2px;
   display: flex;
   align-items: center;
   gap: 8px;
